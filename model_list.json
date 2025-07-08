@@ -1,0 +1,11 @@
+{
+    "models": [
+
+        "bilibili-live/22",
+        "bilibili-live/33",
+        [
+            "ShizukuTalk/shizuku-48",
+            "ShizukuTalk/shizuku-pajama"
+        ]
+    ]
+}
